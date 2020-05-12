@@ -1,0 +1,369 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"d",
+				"descrption"
+			],
+			[
+				"e",
+				"es"
+			],
+			[
+				"c",
+				"content\tAttr"
+			],
+			[
+				"m",
+				"meta\tTag"
+			],
+			[
+				"tr",
+				"tradicionales"
+			],
+			[
+				"id",
+				"index"
+			],
+			[
+				"p",
+				"php"
+			],
+			[
+				"ul",
+				"ultimo"
+			],
+			[
+				"h",
+				"hidden\tvisibility"
+			],
+			[
+				"R",
+				"RoyalsEventos"
+			],
+			[
+				"a",
+				"auto\tpadding"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"margi",
+				"margin-right\tproperty"
+			],
+			[
+				"ma",
+				"margin-left\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"box",
+				"box-style"
+			],
+			[
+				"bac",
+				"background-repeat\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"border",
+				"border-color\tproperty"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 172.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Rivera Bryan/Desktop/Codigo Facilito/Frontend/Nueva carpeta/index.html",
+		"/C/Users/Rivera Bryan/Documents/brasserie/404.php",
+		"/C/Users/Rivera Bryan/Documents/brasserie/index.php",
+		"/C/Users/Rivera Bryan/Documents/brasserie/archive.php",
+		"/C/Users/Rivera Bryan/Documents/brasserie/comments.php",
+		"/C/Users/Rivera Bryan/Documents/brasserie/content-aside.php",
+		"/C/Users/Rivera Bryan/Documents/brasserie/content.php",
+		"/C/Users/Rivera Bryan/Documents/brasserie/content-flexslider.php",
+		"/C/Users/Rivera Bryan/Documents/brasserie/content-page.php",
+		"/C/Users/Rivera Bryan/Documents/brasserie/content-single.php",
+		"/C/Users/Rivera Bryan/Documents/brasserie/footer.php",
+		"/F/postres_regaliz/tradicionales.html",
+		"/F/postres_regaliz/contact.html",
+		"/F/postres_regaliz/tematicos.html",
+		"/F/postres_regaliz/galleta.html",
+		"/F/postres_regaliz/cupcakes.html",
+		"/F/postres_regaliz/especiales.html",
+		"/F/postres_regaliz/index.html",
+		"/F/postres_regaliz/nosotros.html",
+		"/C/Users/Rivera Bryan/Desktop/Postres Regaliz/contact.html",
+		"/C/Users/Rivera Bryan/Desktop/Postres Regaliz/blog.html",
+		"/C/Users/Rivera Bryan/Desktop/Postres Regaliz/tematicos.html",
+		"/C/Users/Rivera Bryan/Desktop/Postres Regaliz/especiales.html",
+		"/C/Users/Rivera Bryan/Desktop/Postres Regaliz/tradicionales.html",
+		"/C/Users/Rivera Bryan/Desktop/Postres Regaliz/nosotros.html",
+		"/C/Users/Rivera Bryan/Desktop/Postres Regaliz/index.html",
+		"/C/Users/Rivera Bryan/Desktop/Postres Regaliz/single-blog.html",
+		"/C/Users/Rivera Bryan/Desktop/Postres Regaliz/menu.html",
+		"/G/Nuevas carpetas/pagina web G&B/formulario1.html",
+		"/G/Nuevas carpetas/pagina web G&B/contact.html",
+		"/G/Nuevas carpetas/pagina web G&B/checkout.html",
+		"/G/Nuevas carpetas/pagina web G&B/categories.html",
+		"/G/Nuevas carpetas/pagina web G&B/cart.html",
+		"/G/Nuevas carpetas/pagina web G&B/accesorios.html",
+		"/G/Nuevas carpetas/pagina web G&B/product.html",
+		"/G/Nuevas carpetas/pagina web G&B/zapatos.html",
+		"/G/Nuevas carpetas/pagina web G&B/index.php",
+		"/G/Nuevas carpetas/pagina web G&B/estructura/menu.php",
+		"/C/Users/Rivera Bryan/Desktop/Royal Events/index.php",
+		"/C/Users/Rivera Bryan/Desktop/Royal Events/html/contactanos.html",
+		"/C/Users/Rivera Bryan/Desktop/Royal Events/css/estilo-index.css",
+		"/F/Nuevas carpetas/pagina web G&B/checkout.html",
+		"/F/Nuevas carpetas/pagina web G&B/product.html",
+		"/F/Nuevas carpetas/pagina web G&B/zapatos.html",
+		"/F/Nuevas carpetas/pagina web G&B/accesorios.html",
+		"/F/Nuevas carpetas/pagina web G&B/cart.html",
+		"/F/Nuevas carpetas/pagina web G&B/categories.html",
+		"/F/Nuevas carpetas/pagina web G&B/formulario1.html",
+		"/F/Nuevas carpetas/pagina web G&B/contact.html",
+		"/F/Nuevas carpetas/pagina web G&B/porsiseborra.html",
+		"/C/Users/Rivera Bryan/Desktop/Royal Events/estructura/foot.php",
+		"/C/Users/Rivera Bryan/Desktop/Royal Events/estructura/menu.php",
+		"/C/Users/Rivera Bryan/Desktop/Royal Events/estructura/meta.php",
+		"/C/Users/Rivera Bryan/Desktop/Royal Events/html/modelo-caja.html",
+		"/C/Users/Rivera Bryan/Desktop/Royal Events/html/nosotros.html",
+		"/C/Users/Rivera Bryan/Desktop/Royal Events/html/servicios.html",
+		"/F/Nuevas carpetas/pagina web G&B/index.php",
+		"/F/Nuevas carpetas/pagina web G&B/estructura/menu.php",
+		"/F/Nuevas carpetas/pagina web G&B/estructura/meta.php",
+		"/F/Nuevas carpetas/pagina web G&B/estructura/foot.php",
+		"/F/Nuevas carpetas/pagina web G&B/estructura/script.php",
+		"/C/xampp/htdocs/RoyalEvents/css/estilo-serv.css",
+		"/C/xampp/htdocs/RoyalEvents/css/nos-style.css",
+		"/C/xampp/htdocs/RoyalEvents/css/estilo-index.css",
+		"/C/xampp/htdocs/RoyalEvents/css/contac-style.css",
+		"/C/xampp/htdocs/RoyalEvents/css/box-style.css",
+		"/C/xampp/htdocs/RoyalEvents/estructura/meta.php",
+		"/C/Users/Rivera Bryan/Desktop/Royal Events/sitemap.xml",
+		"/C/Users/Rivera Bryan/Desktop/Royal Events/robot.txt",
+		"/C/xampp/htdocs/RoyalEvents/index.php",
+		"/C/Users/Rivera Bryan/Desktop/Royal Events/css/contac-style.css",
+		"/C/Users/Rivera Bryan/Desktop/Royal Events/css/nos-style.css",
+		"/C/Users/Rivera Bryan/Desktop/Royal Events/css/estilo-serv.css",
+		"/C/Users/Rivera Bryan/Desktop/Royal Events/css/box-style.css",
+		"/C/xampp/htdocs/RoyalEvents/html/contactanos.html",
+		"/C/xampp/htdocs/RoyalEvents/html/modelo-caja.html",
+		"/C/xampp/htdocs/RoyalEvents/html/nosotros.html",
+		"/C/xampp/htdocs/RoyalEvents/html/servicios.html",
+		"//LAP-INSTRUCTOR/Disenoweb/Bryan/nueva mision.html",
+		"/C/Users/Rivera Bryan/Desktop/CEvento/index.html",
+		"/C/Users/Rivera Bryan/Desktop/CrazyEvents/index.html",
+		"/F/Proyectos/SitioWeb/html/modelocaja.html",
+		"/F/Proyectos/SitioWeb/css/box-style.css",
+		"/C/Users/Rivera Bryan/Desktop/REvento/css/estilos.css",
+		"/C/Users/Rivera Bryan/Desktop/REvento/index.html",
+		"/F/Proyectos/plantilla.html",
+		"/C/Users/Rivera Bryan/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/F/Proyectos/SitioWeb/index.html",
+		"/C/Users/Rivera Bryan/Desktop/CEvento/css/estilos.css",
+		"/G/CrazyEvents/vendor/bootstrap/css/bootstrap-reboot.min.css",
+		"/G/CrazyEvents/vendor/bootstrap/css/bootstrap-reboot.css",
+		"/G/CrazyEvents/vendor/bootstrap/css/bootstrap-grid.min.css",
+		"/G/CrazyEvents/vendor/bootstrap/css/bootstrap-grid.css",
+		"/G/CrazyEvents/vendor/bootstrap/css/bootstrap.min.css",
+		"/G/CrazyEvents/css/agency.css",
+		"/G/CrazyEvents/html/team.html",
+		"/G/CrazyEvents/html/contacto.html",
+		"/G/CrazyEvents/html/nosotros.html",
+		"/G/CrazyEvents/html/servicios.html",
+		"/G/CrazyEvents/index.html",
+		"/G/CrazyEvents/vendor/bootstrap/css/bootstrap.css",
+		"/G/CrazyEvents/html/galeria.html",
+		"/G/CrazyEvents/css/agency.min.css",
+		"/F/SitioWeb/plantillacrazy.html"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"%;"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"untitled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
